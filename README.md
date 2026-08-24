@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040498
+# Name: Yash Chhajer V
+# Date: 28-07-26
 
 
 # AIM:
@@ -14,7 +14,7 @@ To develop the Library Management System using Star UML
 
 3.Library users face challenges in searching for books, checking availability, and reserving or renewing books without visiting the library physically.
 
-4.Librarians need an automated system to catalog books, manage memberships, track loans, and send notifications for due dates and fines.
+4.Librarians need an automated system to catalogue books, manage memberships, track loans, and send notifications for due dates and fines.
 
 5.The system should support quick check-in/check-out, fine calculation, and generate reports on inventory, borrowing trends, and user activity.
 
@@ -25,7 +25,7 @@ UML DIAGRAMS
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
-UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
+UML is the modelling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
 # UML use case diagrams are ideal for:
@@ -36,12 +36,9 @@ Defining and organizing functional requirements in a system
 
 Specifying the context and requirements of a system
 
-→ Modeling the basic flow of events in a sina use case.
+→ Modelling the basic flow of events in a sina use case.
 
-
-
-
-
+<img width="1102" height="896" alt="Exp2_UseCase" src="https://github.com/user-attachments/assets/bd33e056-1479-4c14-bf19-0713b74de291" />
 
 
 # CLASS DIAGRAM
@@ -58,6 +55,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1101" height="897" alt="Exp2_Class" src="https://github.com/user-attachments/assets/1d8d5b99-6f84-44e5-86fa-d9f8f104b587" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +64,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1100" height="897" alt="Exp2_Communication" src="https://github.com/user-attachments/assets/be9f762a-678d-4a76-8388-2b2f467744f0" />
 
 
 
@@ -77,10 +76,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
+<img width="1085" height="883" alt="Exp2_Package" src="https://github.com/user-attachments/assets/9303d5c4-fa83-4f7a-b08a-a97a9dcb0724" />
 
 
 
@@ -96,9 +92,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
+<img width="1081" height="782" alt="Exp2_Activity" src="https://github.com/user-attachments/assets/249433a8-0790-4a6f-9c28-5d49d51305df" />
 
 # SEQUENCE DIAGRAM
 
@@ -106,6 +100,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="1093" height="893" alt="Exp2_Sequence" src="https://github.com/user-attachments/assets/d0c8633b-70cd-4ad5-a5e7-8cad0232f859" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
